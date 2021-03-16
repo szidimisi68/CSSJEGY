@@ -1,0 +1,29 @@
+body
+{
+    background-color: rgb(156, 238, 89);
+    color: black;
+}
+
+a
+{
+    color: rgb(153, 153, 153);
+}
+
+#elso
+{
+    width: 980px;
+    margin: auto;
+    background-color: rgb(80, 144, 80);
+}
+
+#elso tr li
+{
+    margin: 0;
+}
+
+#masodik
+{
+    width: 940px;
+    margin: auto;
+    background-color: white;
+}
